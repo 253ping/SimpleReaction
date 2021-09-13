@@ -1,5 +1,4 @@
-# 2010
-*.sh -crlf
+* text=auto
 
-# 2020
-*.sh text eol=lf 
+*.sh	text eol=lf
+*.bat	text eol=crlf
