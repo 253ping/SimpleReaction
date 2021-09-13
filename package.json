@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "name": "simple-reaction",
+  "version": "1.0.0",
+  "description": "It reacts to stuff",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "253ping",
+  "license": "ISC"
+}

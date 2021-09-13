@@ -1,0 +1,16 @@
+{
+    "comment1": "The Channel ID of the suggestion channel. | Go to 'User Settings > Advanced' and enable 'Developer Mode'",
+    "comment2": "Then right click the channel and click 'Copy ID'",
+    "suggestionChannelID": "",
+
+    "comment3": "To use Discord Standart Emojis use Unicode Emojis like '👍'",
+    "comment4": "You can also type :emojiname: and then prefix it with one backslash.",
+    "comment5": "Then you can copy it out of discord into this file.",
+    "comment6": "To use custom emoji's use '!emoji-name'. The emojis must be on the server though.",
+    "reactions": [
+        "👍",
+        "👎",
+        "✅",
+        "❌"
+    ]
+}
