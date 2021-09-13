@@ -1,4 +1,8 @@
 # Simple Reactions
+<p align="center">
+  <img alt="Example" src="https://i.imgur.com/KGIMxQe.png"/>
+</p>
+  
 ## Requirements
 - Have [NodeJS 16.6.0 or newer](https://nodejs.org)
 
